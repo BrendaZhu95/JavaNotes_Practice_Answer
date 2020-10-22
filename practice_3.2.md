@@ -1,4 +1,4 @@
-## Question
+## Question 3.2
 
 2. Which integer between 1 and 10000 has the largest number of divisors, and how many
 divisors does it have? Write a program to find the answers and print out the results. It is

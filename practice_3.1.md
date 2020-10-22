@@ -1,12 +1,13 @@
->1. How many times do you have to roll a pair of dice before they come up snake eyes? You
->could do the experiment by rolling the dice by hand. Write a computer program that
->simulates the experiment. The program should report the number of rolls that it makes
->before the dice come up snake eyes. (Note: “Snake eyes” means that both dice show a
->value of 1.)
+### Question 3.1
+1. How many times do you have to roll a pair of dice before they come up snake eyes? You
+could do the experiment by rolling the dice by hand. Write a computer program that
+simulates the experiment. The program should report the number of rolls that it makes
+before the dice come up snake eyes. (Note: “Snake eyes” means that both dice show a
+value of 1.)
 
-###Answer
+### Answer
 
-(```)
+```
 public class Chap3Practice {
     public static void main(String[] args) {
         int first_dice;
@@ -31,4 +32,4 @@ public class Chap3Practice {
         }
     }
 }
-(```)
+```
